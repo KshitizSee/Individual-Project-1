@@ -46,10 +46,9 @@ This project is intended for local analysis and data exploration.
 
 ## Author
 - **Kshitij Chaudhary**
-- GitHub: [Your GitHub Profile](https://github.com/yourusername)
+- GitHub: [Your GitHub Profile](https://github.com/KshitizSee)
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgements
 - Data source: Walmart Retail Sales Dataset
