@@ -15,7 +15,7 @@ This project analyzes Walmart retail sales data from 2012 to 2015 using Python a
 ### Installing
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/walmart-sales-analysis.git
+   git clone [https://github.com/KshitizSee/Individual-Project-1/blob/main/walmart-sales.py]
    ```
 2. Navigate to the project folder:
    ```sh
@@ -45,7 +45,7 @@ This project analyzes Walmart retail sales data from 2012 to 2015 using Python a
 This project is intended for local analysis and data exploration.
 
 ## Author
-- **Your Name**
+- **Kshitij Chaudhary**
 - GitHub: [Your GitHub Profile](https://github.com/yourusername)
 
 ## License
