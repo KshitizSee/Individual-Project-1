@@ -1,14 +1,10 @@
-
+# Individual Project 1
 # Walmart Retail Sales Analysis
 
-![Walmart Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Walmart_logo.svg/1280px-Walmart_logo.svg.png)
-
 ## Project Overview
-
-This comprehensive data analysis project processes, cleans, and analyzes Walmart retail sales data from 2001 to 2015. The project demonstrates advanced data cleaning techniques, MySQL database operations, and data visualization to extract meaningful business insights from retail sales data.
+This detailed data analysis project involves processing, cleaning, and analyzing Walmart retail sales data spanning from 2001 to 2015. It showcases advanced techniques for data cleaning, MySQL database operations, and data visualization to derive valuable business insights from the retail sales data.
 
 ## Table of Contents
-
 - [Project Overview](#project-overview)
 - [Features](#features)
 - [Project Structure](#project-structure)
@@ -81,7 +77,7 @@ Walmart-Sales-Analysis/
 
    1. **Clone the repository**
   ```bash
-  git clone git@github.com:bajegaha/Walmart_analysis.git
+  git clone https://github.com/KshitizSee/Individual-Project-1.git
   ```
 
    2. **Install required Python packages**
@@ -238,8 +234,6 @@ This project is designed for flexible deployment but still not deployed but can 
 Follow the installation instructions to run locally for data analysis.
 
 ### Server Deployment
-
-For server deployment:
 1. Set up a server with Python and MySQL
 2. Configure database connection parameters in the scripts
 3. Schedule regular runs using cron or similar tools
@@ -254,22 +248,16 @@ The visualization components can be integrated with web frameworks:
 ## Future Enhancements
 
 Potential improvements for future versions:
-
-- Implement machine learning for sales prediction
-- Add interactive dashboards using Plotly or Dash
-- Integrate with real-time data sources
-- Expand analysis to include customer demographics
-- Add automated reporting functionality
+1. Incorporating machine learning models for sales forecasting
+2. Creating interactive dashboards with Plotly or Dash
+3. Connecting to real-time data sources
+4. Broadening the analysis to include customer demographic information
+5. Introducing automated reporting features
 
 ## Author
-
-**Ghan Bahadur Gaha**
+**Kshitij Chaudhary**
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Acknowledgements
-
 - Walmart for providing the retail sales dataset
-- All contributors who have helped improve this project specially my teammates @Kapil Choudhary @ Ramsharan Pokharel @ Iris Russell @ Anshul Sharma
