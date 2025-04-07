@@ -247,6 +247,7 @@ Potential improvements for future versions:
 **Kshitij Chaudhary**
 
 ## License
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgements
 - Walmart for providing the retail sales dataset
