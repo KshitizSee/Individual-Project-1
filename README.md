@@ -1,5 +1,4 @@
-# Individual Project 1
-# Walmart Retail Sales Analysis
+# Individual Project 1 - Walmart Retail Sales Analysis
 
 ## Project Overview
 This detailed data analysis project involves processing, cleaning, and analyzing Walmart retail sales data spanning from 2001 to 2015. It showcases advanced techniques for data cleaning, MySQL database operations, and data visualization to derive valuable business insights from the retail sales data.
@@ -193,15 +192,11 @@ This script will:
 - Generate visualizations of key findings
 
 ## Key Insights
+The analysis uncovers several key business insights:
 
-The analysis reveals several important business insights:
-
-1. **Regional Performance**: Office Machines are the most profitable product category in both South and Central regions, while Binders and Binder Accessories lead in the East region.
-
-2. **Sales Growth Patterns**: Several states show significant sales volatility, with Wyoming experiencing 687% growth in 2013 followed by a 87% decline in 2015.
-
-3. **Yearly Trends**: Order volume increased dramatically in 2012-2015 compared to earlier years, with 2012 showing the highest number of orders.
-
+1. **Regional Performance:** Office Machines are the top-performing product category in both the South and Central regions, while Binders and Binder Accessories dominate in the East.
+2. **Sales Growth Trends:** Some states show notable fluctuations in sales, with Wyoming seeing a 687% increase in 2013, followed by an 87% decrease in 2015.
+3. **Annual Trends:** There was a significant rise in order volume from 2012 to 2015 compared to earlier years, with 2012 recording the highest number of orders.
 
 
 ### Data Cleaning Tests
