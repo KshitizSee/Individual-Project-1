@@ -56,7 +56,7 @@ Walmart-Sales-Analysis/
 
 ## Technologies Used
 
-- **Python 3.XX**: Core programming language
+- **Python 3.9**: Core programming language
 - **pandas**: Data manipulation and analysis
 - **pymysql**: MySQL database connector
 - **sqlalchemy**: SQL toolkit and Object-Relational Mapping
@@ -158,13 +158,12 @@ python data_cleaning.py
 ```
 
 This script will:
-- Load the raw Excel data
-- Remove special characters from product names
-- Convert dates to proper format
-- Export cleaned data to CSV format
+1. Import the raw Excel data
+2. Eliminate special characters from product names
+3. Convert dates into the correct format
+4. Save the cleaned data as a CSV file
 
 ### Database Operations
-
 Run the database operations module to interact with MySQL:
 
 ```bash
@@ -172,13 +171,12 @@ python database_operations.py
 ```
 
 This script will:
-- Connect to the MySQL database
-- Execute sample queries
-- Display table information
-- Update data types as needed
+1. Establish a connection to the MySQL database
+2. Run sample queries
+3. Show table details
+4. Modify data types as required
 
 ### Data Analysis
-
 Run the data analysis module to generate insights:
 
 ```bash
@@ -186,10 +184,10 @@ python data_analysis.py
 ```
 
 This script will:
-- Analyze yearly sales trends
-- Calculate state-by-state sales growth
-- Identify most profitable product categories by region
-- Generate visualizations of key findings
+1. Examine annual sales trends
+2. Compute sales growth by state
+3. Identify the most profitable product categories across regions
+4. Create visualizations to highlight key insights
 
 ## Key Insights
 The analysis uncovers several key business insights:
@@ -221,27 +219,23 @@ python data_analysis.py
 Validates analysis functions and visualization generation.
 
 ## Deployment
-
 This project is designed for flexible deployment but still not deployed but can done by using GitHub CI/CD pipeline, flask/django framework, fastapi and aws server or heruko:
 
 ### Local Analysis
-
 Follow the installation instructions to run locally for data analysis.
 
 ### Server Deployment
-1. Set up a server with Python and MySQL
-2. Configure database connection parameters in the scripts
-3. Schedule regular runs using cron or similar tools
+1. Install a server with Python and MySQL
+2. Adjust the database connection settings in the scripts
+3. Set up scheduled executions using cron or similar tools
 
 ### Dashboard Integration
-
-The visualization components can be integrated with web frameworks:
-1. Use Flask or Django to create a web interface
-2. Embed visualizations in HTML templates
-3. Deploy to a web server for team access
+The visualization elements can be incorporated into web frameworks by:
+1. Using Flask or Django to build a web interface
+2. Embedding visualizations within HTML templates
+3. Deploying the interface on a web server for team access
 
 ## Future Enhancements
-
 Potential improvements for future versions:
 1. Incorporating machine learning models for sales forecasting
 2. Creating interactive dashboards with Plotly or Dash
