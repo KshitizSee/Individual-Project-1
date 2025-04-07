@@ -49,9 +49,7 @@ Walmart-Sales-Analysis/
 ├── requirements.txt
 ├── README.md
 ├── LICENSE.md
-└── .gitignore
-
-                 
+└── .gitignore             
 ```
 
 ## Technologies Used
